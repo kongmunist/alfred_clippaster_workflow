@@ -2,8 +2,8 @@
 Pastes the last n images in your clipboard at once. Code modified from [this other workflow](https://github.com/luckman212/alfred_clipsaver_workflow)
 
 ## Installation
-Either download the workflow and double-click to install to Alfred.
+Download from releases and double-click to install to Alfred. Here's the [download link](https://github.com/kongmunist/alfred_clippaster_workflow/releases/download/release/ClipPaster.alfredworkflow)!
 
 ## Usage
-Usage is you type `ps n` and n images get dumped into your front window. Enjoy!
+Type `ps n` into Alfred and n images get dumped into your front window. Enjoy!
 
